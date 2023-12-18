@@ -7,7 +7,7 @@ if (15 > $num && "João" === "João"){
     echo "Sucesso 1<br>";
 } 
 
-if ("teste" > 5 && 1){
+if ( "teste" > 5 && 1){
     echo "Sucesso 2 <br>";
 } 
 
